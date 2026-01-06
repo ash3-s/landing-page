@@ -19,7 +19,7 @@ export default function AboutPage() {
             Defining the <span className="italic">Future of Brands</span>
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground leading-relaxed mb-16">
-            Synaptive was founded on a simple principle: a brand is the most valuable asset a company owns.
+            Merqone was founded on a simple principle: a brand is the most valuable asset a company owns.
             We are a collective of strategists, creatives, and visionaries dedicated to building the world&apos;s most
             influential identities.
           </p>
@@ -46,7 +46,7 @@ export default function AboutPage() {
           </div>
 
           <div className="bg-secondary/20 rounded-[3rem] p-12 border border-border/50 mb-24">
-            <h2 className="text-3xl font-serif mb-12 text-center">The Synaptive Standards</h2>
+            <h2 className="text-3xl font-serif mb-12 text-center">The Merqone Standards</h2>
             <div className="grid md:grid-cols-3 gap-8">
               {[
                 {

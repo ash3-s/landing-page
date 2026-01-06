@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Synaptive | Strategic Brand Management",
-  description: "Synaptive builds and manages market-leading brands. Strategic direction, identity management, and digital ecosystems.",
+  title: "Merqone | Strategic Brand Management",
+  description: "Merqone builds and manages market-leading brands. Strategic direction, identity management, and digital ecosystems.",
 };
 
 export default function RootLayout({

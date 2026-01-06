@@ -26,7 +26,7 @@ export default function LandingPage() {
                 <div className="w-4 h-4 bg-background rounded-sm rotate-45" />
               </div>
               <span className="text-xl font-bold tracking-tight bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent">
-                SYNAPTIVE
+                MERQONE
               </span>
             </Link>
           </div>
@@ -67,7 +67,7 @@ export default function LandingPage() {
         </h1>
 
         <p className="max-w-2xl mx-auto text-lg md:text-xl text-muted-foreground leading-relaxed mb-12">
-          Synaptive builds and manages market-leading brands. We provide the strategic direction, identity management,
+          Merqone builds and manages market-leading brands. We provide the strategic direction, identity management,
           and digital ecosystem that turns your potential into market dominance.
         </p>
 
@@ -316,7 +316,7 @@ export default function LandingPage() {
             Ready to <span className="italic">Define</span> the Future?
           </h2>
           <p className="max-w-xl mx-auto text-primary-foreground/90 mb-12 relative z-10 text-lg">
-            Join the ranks of forward-thinking organizations leveraging Synaptive&apos;s technical excellence and digital
+            Join the ranks of forward-thinking organizations leveraging Merqone&apos;s technical excellence and digital
             strategy to dominate their sectors.
           </p>
           <Button
@@ -337,7 +337,7 @@ export default function LandingPage() {
               <div className="flex items-center gap-2 mb-6">
                 <div className="w-6 h-6 bg-gradient-to-br from-primary via-secondary to-accent rounded-full shadow-lg shadow-primary/30" />
                 <span className="text-xl font-bold tracking-tight bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent">
-                  SYNAPTIVE
+                  MERQONE
                 </span>
               </div>
               <p className="text-muted-foreground max-w-sm">
@@ -384,7 +384,7 @@ export default function LandingPage() {
             </div>
           </div>
           <div className="flex flex-col md:flex-row justify-between items-center pt-8 border-t border-border text-xs text-muted-foreground uppercase tracking-widest">
-            <span>© 2025 Synaptive. All rights reserved.</span>
+            <span>© 2025 Merqone. All rights reserved.</span>
             <div className="flex gap-8 mt-4 md:mt-0">
               <span className="hover:text-primary cursor-pointer transition-colors">Privacy Policy</span>
               <span className="hover:text-primary cursor-pointer transition-colors">Terms of Service</span>
