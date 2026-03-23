@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Merqone | Strategic Brand Management",
-  description: "Merqone builds and manages market-leading brands. Strategic direction, identity management, and digital ecosystems.",
+  title: "MERQURIUS AVANTAGE GLOBAL | Strategic Brand Management",
+  description: "MERQURIUS AVANTAGE GLOBAL builds and manages market-leading brands. Strategic direction, identity management, and digital ecosystems.",
 };
 
 export default function RootLayout({
