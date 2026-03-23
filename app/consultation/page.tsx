@@ -31,14 +31,18 @@ export default function ConsultationPage() {
             <div className="space-y-8 mt-12">
               <div>
                 <h4 className="text-xs font-bold uppercase tracking-widest text-primary mb-2">Direct Line</h4>
-                <p className="text-lg font-serif">strategy@merquriusavantageglobal.com</p>
+                <p className="text-lg font-serif">magpvtl@gmail.com</p>
               </div>
               <div>
-                <h4 className="text-xs font-bold uppercase tracking-widest text-primary mb-2">Global HQ</h4>
+                <h4 className="text-xs font-bold uppercase tracking-widest text-primary mb-2">Registered Office</h4>
                 <p className="text-muted-foreground text-sm">
-                  101 Innovation Way
+                  MERQURIUS AVANTAGE GLOBAL PRIVATE LIMITED
                   <br />
-                  Tech District, CA 94105
+                  Shahul Building, 23/976, Kunnathurmedu,
+                  <br />
+                  Palakkad
+                  <br />
+                  PALAKKAD, KL, 678013
                 </p>
               </div>
             </div>
