@@ -6,7 +6,7 @@ import {
   GraduationCap,
   Building2,
   ChevronRight,
-  CheckCircle2,
+  RadioTower,
   Globe,
   Pen,
   Share2,
@@ -230,9 +230,9 @@ export default function LandingPage() {
               desc: "Clear, reliable messaging for complex supply chain and logic networks.",
             },
             {
-              icon: CheckCircle2,
-              name: "Government",
-              desc: "Dignified and accessible digital presence for public services.",
+              icon: RadioTower,
+              name: "Infrastructure",
+              desc: "Integrating physical and digital pathways for a modern society",
             },
           ].map((sector, idx) => (
             <div
