@@ -48,6 +48,10 @@ const solutions = {
   },
 }
 
+export async function generateStaticParams() {
+  return Object.keys(solutions).map((slug) => ({ slug }))
+}
+
 export default async function SolutionPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params
   const solution = solutions[slug as keyof typeof solutions]
